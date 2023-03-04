@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mintreel
+- 👋 Hi, I’m @Mintu
 - 👀 I’m interested in programming, chemistry and maths.
 - 🌱 I’m currently studying chemistry at King's College London
 - 
